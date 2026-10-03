@@ -1,0 +1,6 @@
+{
+  "name": "Bonsai WebUI - Binary LLM & Agent Studio",
+  "description": "Ultra-lightweight OpenWebUI alternative optimized for 1-bit / 1.58-bit binary AI models (Bonsai 27B Standard, Uncensored, and Abliterated) running on 8GB laptops with real-time agentic tool execution, backend logs, and Ollama integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
